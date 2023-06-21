@@ -1,4 +1,4 @@
-module github.com/siddhantprateek/godep
+module godep
 
 go 1.20
 

@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	app "github.com/siddhantprateek/godep/routes"
+	app "godep/routes"
 )
 
 func main() {
