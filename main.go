@@ -1,8 +1,9 @@
 package main
 
 import (
-	app "godep/routes"
 	"log"
+
+	app "github.com/siddhantprateek/godep/routes"
 )
 
 func main() {
